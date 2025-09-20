@@ -1,0 +1,28 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js build output
+/.next/
+/out/
+
+# Production
+/build
+gcp-credentials.json
+
+# Local Environment Variables & Credentials
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+gcp-credentials.json
+
+# Vercel
+.vercel
+
+# Mac
+.DS_Store
